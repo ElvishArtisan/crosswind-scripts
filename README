@@ -1,0 +1,8 @@
+This is the README for crosswind-scripts, a collection of scripts
+and utilities for cross-compiling Windows binaries on Linux systems.
+
+SCRIPTS
+-------
+
+qt4-on-centos7.sh - Configure an environment for building Qt4 programs
+                    for Win32.
