@@ -3,3 +3,8 @@
 2016-07-28 Fred Gleason <fredg@paravelsystems.com>
 	* Added 'autoconf', 'automake', 'libtool' and 'git' packages
 	to 'qt-on-centos7.sh'.
+2016-07-28 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'docbook5-style-xsl', 'fop' and 'libxslt' packages to
+	'qt-on-centos7.sh'.
+	* Added a '$DOCBOOK_STYLESHEET' environmental variable to
+	'qt-on-centos7.sh'.
