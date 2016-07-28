@@ -8,3 +8,5 @@
 	'qt-on-centos7.sh'.
 	* Added a '$DOCBOOK_STYLESHEET' environmental variable to
 	'qt-on-centos7.sh'.
+2016-07-28 Fred Gleason <fredg@paravelsystems.com>
+	* Added a 'patch' package to 'qt-on-centos7.sh'.
