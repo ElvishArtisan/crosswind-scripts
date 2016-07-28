@@ -1,2 +1,5 @@
 2016-07-28 Fred Gleason <fredg@paravelsystems.com>
 	* Initial package creation.
+2016-07-28 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'autoconf', 'automake', 'libtool' and 'git' packages
+	to 'qt-on-centos7.sh'.

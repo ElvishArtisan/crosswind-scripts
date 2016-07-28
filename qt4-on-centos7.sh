@@ -14,7 +14,7 @@ yum -y install epel-release
 #
 # Install Packages
 #
-yum -y install mingw32-crt mingw32-cpp mingw32-termcap mingw32-freetype mingw32-pixman mingw32-glib2 mingw32-libtiff mingw32-qt mingw32-postgresql mingw-filesystem-base mingw32-filesystem mingw32-pkg-config mingw32-winpthreads mingw32-headers mingw32-bzip2 mingw32-expat mingw32-binutils mingw32-libpng mingw32-openssl mingw32-fontconfig mingw32-gcc-c++ mingw32-libidn mingw32-cairo mingw32-libjpeg-turbo mingw32-sqlite mingw32-dbus mingw32-angleproject mingw32-icu mingw32-pcre mingw-binutils-generic mingw32-zlib mingw32-win-iconv mingw32-libffi mingw32-gcc mingw32-libssh2 mingw32-gettext mingw32-curl mingw32-qt-qmake mingw32-harfbuzz qt-devel
+yum -y install mingw32-crt mingw32-cpp mingw32-termcap mingw32-freetype mingw32-pixman mingw32-glib2 mingw32-libtiff mingw32-qt mingw32-postgresql mingw-filesystem-base mingw32-filesystem mingw32-pkg-config mingw32-winpthreads mingw32-headers mingw32-bzip2 mingw32-expat mingw32-binutils mingw32-libpng mingw32-openssl mingw32-fontconfig mingw32-gcc-c++ mingw32-libidn mingw32-cairo mingw32-libjpeg-turbo mingw32-sqlite mingw32-dbus mingw32-angleproject mingw32-icu mingw32-pcre mingw-binutils-generic mingw32-zlib mingw32-win-iconv mingw32-libffi mingw32-gcc mingw32-libssh2 mingw32-gettext mingw32-curl mingw32-qt-qmake mingw32-harfbuzz qt-devel autoconf automake libtool git
 
 #
 # Configure Environment
